@@ -2,8 +2,8 @@ require 'formula'
 
 class Tagwatch < Formula
   homepage 'https://github.com/djcp/tagwatch'
-  url 'https://github.com/djcp/tagwatch/archive/v0.0.2.zip'
-  sha1 'c9309e64c8cdfcbdb4a1be87a0617e872369d0b3'
+  url 'https://github.com/djcp/tagwatch/archive/v0.0.3.zip'
+  sha1 '170c330476891f85fd83b36c02bc84a86c89b045'
 
   option 'with-watchdog', 'Install watchdog via pip'
 
