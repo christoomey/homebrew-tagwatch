@@ -15,5 +15,6 @@ class Tagwatch < Formula
     end
 
     bin.install 'tagwatch.sh' => 'tagwatch'
+    bin.install 'tagwatch_all_git_repos.sh' => 'tagwatch_all_git_repos'
   end
 end
